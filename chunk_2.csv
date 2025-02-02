@@ -1,5 +1,5 @@
 Index,Image_Name,Pneumothorax_Type,Pneumothorax_Size,Affected_Side,Label_Flag,Drop
-0,image_11534.png,Simple,Small,Right,,False
+0,image_11534.png,Simple,Small,Right,1.0,True
 1,image_9898.png,Tension,Large,Right,,False
 2,image_10256.png,Simple,Small,Right,,False
 3,image_10887.png,,,,,True
